@@ -1,12 +1,17 @@
-## Hi there 👋
+# Kursaha
 
-<!--
+Welcome to the Kursaha repository on GitHub!
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Kursaha is a customer engagement platform designed to help businesses effectively connect with their customers across various channels. It offers features such as template creation for multiple channels (mail, WhatsApp, SMS), AMP mail support, rich text editing, and drag-and-drop functionality for mail creation. With the power of generative AI, Kursaha can auto-generate and improve content with the right tone to enhance user engagement.
+
+## Key Features
+
+- Template creation for mail, WhatsApp, SMS, and more
+- AMP mail support for interactive emails
+- Rich text editing and drag-and-drop functionality for mail creation
+- Generative AI for content generation and improvement
+- Seamless integration with existing systems and applications
+- Pay-as-you-grow model for small and medium enterprises
+- 24/7 online customer support and assistance
